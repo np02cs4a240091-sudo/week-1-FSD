@@ -1,0 +1,29 @@
+/* Header */
+header {
+  background: #009688;
+  color: white;
+}
+
+/* Navigation */
+nav {
+  background: #f5f2f2;
+}
+
+nav a:hover {
+  color: #4dd0e1;
+}
+
+/* Sections */
+section {
+  background: #eae8e8;
+}
+
+/* Button */
+button {
+  background: #00695c;
+  color: white;
+}
+
+button:hover {
+  background: #26a69a;
+}
